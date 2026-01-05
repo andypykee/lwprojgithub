@@ -1,5 +1,5 @@
 date
 cal
-echo how ru
+echo how ru. Have a great day !!!
 ls -l
 
