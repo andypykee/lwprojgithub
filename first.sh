@@ -1,4 +1,6 @@
 date
 cal
-echo how ru vimal daga
-bye......
+echo how ru Vimal daga. Have a great day !!!
+ls -l
+bye...
+
